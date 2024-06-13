@@ -1,0 +1,34 @@
+{
+  "name": "monnify-vue",
+  "version": "1.0.0",
+  "description": "A Vue.js 3 plugin for easily collecting payments with Monnify",
+  "main": "src/index.js",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "github",
+    "payments",
+    "plugin",
+    "monnify",
+    "payment-sdk",
+    "nigeria-api",
+    "monnify.com",
+    "vue 3"
+  ],
+  "author": {
+    "name": "Chimeremeze Prevail Ejimadu",
+    "email": "prevailexcellent@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prevailexcel/monnify-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prevailexcel/monnify-vue/issues"
+  },
+  "homepage": "https://github.com/prevailexcel/monnify-vue#readme",
+  "dependencies": {
+    "vue": "^3.0.0"
+  }
+}
